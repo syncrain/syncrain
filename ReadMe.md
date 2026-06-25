@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on 32bit OS<br>👯Looking forward for collabs<br>🌱 I’m currently learning asm, C, python and low level system security.<br>💬 Ask me about security stuff...<br>⚡ Kinnda into CTF's
+🔭 Currently working on 32bit OS<br>👯Looking forward for collabs<br>🌱 I’m currently learning asm, C, python and low level system security.<br>💬 Ask me about security stuff...<br>⚡ Kinda into CTF's
 
 
 ## 🌐 Socials:
